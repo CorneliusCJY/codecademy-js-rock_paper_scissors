@@ -1,6 +1,6 @@
 # **Rock, Paper, or Scissors**
 
-The Rock, Paper, or Scissors program is a classic two-player game that compares the items each player chooses. This training project, prepared by [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript), has been an invaluable exercise in using variables and arithmetic operators using JavaScript.
+The Rock, Paper, or Scissors program is a classic two-player game that compares the items each player chooses. This training project, prepared by [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript), has been an invaluable exercise in using functions using JavaScript.
 
 ## Table of Contents
 
